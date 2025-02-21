@@ -3,7 +3,7 @@ Hi there 👋
 - 🌱 I’m currently actively seeking a role as financial analyst or corporate finance analyst (M&A).
 - 🤔 I’m looking for help with financial modeling skills. 
 - 📫 Email: niekkiewong@gmail.com/ LinkedIn: linkedin.com/in/niekkie-wong-96a114174
-- ⚡ Fun fact: 99s, love travelling ##
+- ⚡ Fun fact: 99s, love travelling
 
 <!--
 **Niekkie1018/NIekkie1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
